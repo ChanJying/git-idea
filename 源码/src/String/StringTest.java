@@ -105,6 +105,11 @@ public class StringTest {
         // 第一行的列数
         System.out.println(a[0].length);
         System.out.println(a[1].length);
+
+        List<String> list = new ArrayList<String>();
+        System.out.println(list);
+        list.set(0,"陈");
+        System.out.println(list);
     }
 
 }
