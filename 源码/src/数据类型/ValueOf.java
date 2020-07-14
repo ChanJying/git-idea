@@ -5,5 +5,9 @@ public class ValueOf {
         Integer n=123;
         int m=123;
         System.out.println(n==m);
+        System.out.println(n==m);
+        System.out.println(n==m);
+        System.out.println(n==m);
+
     }
 }
